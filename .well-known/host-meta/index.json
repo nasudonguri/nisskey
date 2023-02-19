@@ -1,0 +1,9 @@
+{
+  "links": [
+    {
+      "rel": "lrdd",
+      "type": "application/jrd+json",
+      "template": "https://misskey.io/.well-known/webfinger?resource={uri}"
+    }
+  ]
+}
